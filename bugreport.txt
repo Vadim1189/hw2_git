@@ -1,0 +1,7 @@
+1. Summary
+2. Project, component, version
+3. Steps to reproduce
+4. Actual result
+5. Expected result
+6. Other relevant information
+
